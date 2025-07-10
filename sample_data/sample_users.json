@@ -1,0 +1,16 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "password": "hashed_dummy_password",
+    "followers": [],
+    "following": []
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "password": "hashed_dummy_password",
+    "followers": [],
+    "following": []
+  }
+]
